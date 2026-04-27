@@ -12,4 +12,4 @@ This project has been updated with a fully automated CI/CD pipeline using **GitH
 
 - **Container Registry:** Amazon Elastic Container Registry (ECR)
 - **Container Orchestration:** Amazon Elastic Container Service (ECS) with AWS Fargate
-- **Automation:** The pipeline automatically builds, tags, and pushes the Docker image to ECR and deploys it to ECS on every push to the `main` branch.
+- **Automation:** The pipeline automatically builds, tags, and pushes the Docker image to ECR and deploys it to ECS on every push to the `main` branch...
