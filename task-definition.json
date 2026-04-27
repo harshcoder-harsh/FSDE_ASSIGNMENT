@@ -6,7 +6,7 @@
   ],
   "cpu": "256",
   "memory": "512",
-  "executionRoleArn": "arn:aws:iam::ACCOUNT_ID:role/ecsTaskExecutionRole",
+  "executionRoleArn": "arn:aws:iam::743652538542:role/LabRole",
   "containerDefinitions": [
     {
       "name": "fsde-server",
